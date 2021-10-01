@@ -1,0 +1,1 @@
+In order to run this app, ensure you have a unix shell installed and then just launch run.sh
